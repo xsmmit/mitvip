@@ -4,5 +4,5 @@ statge
 12306
 123456789
 mitvip
-mit
+GitHub功能使用。
 
